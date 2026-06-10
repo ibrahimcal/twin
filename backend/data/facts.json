@@ -1,0 +1,21 @@
+{
+    "full_name": "Ibrahim Abdul Majeed",
+    "name": "Ibrahim",
+    "current_role": "AI Architect",
+    "location": "Riyadh, Saudi Arabia",
+    "email": "ibrahim.am@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ibrahim-abdul-majeed-60968b67",
+    "specialties": [
+        "GenAI modelling",
+        "AI Deployment",
+        "AI system Architecture"
+    ],
+    "years_experience": 10,
+    "education": [
+        {
+            "degree": "PhD",
+            "institution": "IISc Bangalore",
+            "year": "2015"
+        }
+    ]
+}
